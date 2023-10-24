@@ -1,9 +1,9 @@
 # BusBuddy
 Cred ca ati fost cu toti in situatia in care asteptati un autobuz care nu mai venea
 eu una stiu ca am fost,aceasta este una dintre problemele pe care echipa Bus buddy incearca sa le rezolve.
-Dorim sa ajutam oamenii constransi de mijloacele de transport in comun sa ajunga acolo unde trebuie sa fie .
+Dorim sa ajutam oamenii constransi de mijl oacele de transport in comun sa ajunga acolo unde trebuie sa fie .
 
-Ne aflam in secolul vitezei si trebuie sa tinem pasul cu aceasta dar nu o sa reusim dac nu vine autobusul,
+Ne aflam in secolul vitezei si trebuie sa tinem pasul cu aceasta dar nu o sa reusim daca nu vine autobuzul,
 daca pancardele sunt prea complicate ca sa le putem citi sau daca informatiile pe care le primim sunt contradictori.
 
 
@@ -17,7 +17,7 @@ Echipa noasta vine cu un produs software mai bun care se focuseaza pe nevoile fi
 Incercam sa imbinam aspect din viata de zi cu zi cu software pentru a creea o aplicatie care poate sa acomodeze orice tip de utilizator.
 Noi consideram ca desi soferi sunt un numar semnificativ de oameni care se deplaseaza in interiorul orasului 
 ar trebuii sa nu uitam de pensionari studenti elevi si de oameni care nu au permis de conducere.
-Incercam sa punem accentul pe convanbilitate.
+Incercam sa punem accentul pe convenabilitate.
 
 Daca aplicatia ar fi sa prinda pentru utilizatorii Timisoreni ne dorim sa o ducem la plan National, iar dupa aceea international. 
 Consideram ca este una dintre putinele oferte de acest tip valabile in momentul de fata pe internet.
